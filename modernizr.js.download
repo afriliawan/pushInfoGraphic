@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" lang="id" itemtype="http://schema.org/WebPage"><head>
+<title>VIVA Preview Indeks</title>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, follow">
+<meta name="description" content="Situs berita harian terkini yang menyajikan berita dan kabar terbaru seputar selebritis lokal hingga mancanegara" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-touch-fullscreen" content="yes" />
+<base href="/guide-preview/" />
+<link href="img/favicon.ico" rel="icon" type="image/ico" />
+<link rel="stylesheet" href="css/base.css" type="text/css" media="screen">
+</head>
+<body><header class="content_center"><h1>Preview Indeks</h1></header><section class="masonry-list">
+<div class="masonry-grid">
+
+<div class="masonry-grid-item changelog">
+<div class="gc-box">
+<h2>Changelog</h2>
+<ul>
+<li>
+<a href="../changelog/" target="_blank">Changelog 2018 - 2019</a>
+</li>
+<li>
+<a href="../changelog/2020/" target="_blank">Changelog 2020</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item crop">
+<div class="gc-box">
+<h2>Crop Generator</h2>
+<ul>
+<li>
+<a href="../crop-generator/" target="_blank">Responsive</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item vivanetworks">
+<div class="gc-box">
+<h2>Viva Networks</h2>
+<ul>
+<li>
+<a href="../vivanetworks/" target="_blank">Company Profile</a>
+</li>
+<li>
+<a href="../vivanetworks/app/" target="_blank">Apps</a>
+</li>
+<li>
+<a href="../vivanetworks/app/sitemap/" target="_blank">Apps Sitemap</a>
+</li>
+<li>
+<a href="../vivasso/" target="_blank">Single Sign-On</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item microsite">
+<div class="gc-box">
+<h2>Microsite</h2>
+<ul>
+<li>
+<a href="../daihatsu/" target="_blank">Daihatsu</a>
+</li>
+<li>
+<a href="../dpr/" target="_blank">DPR RI</a>
+</li>
+<li>
+<a href="../toyota/v-4b/" target="_blank">Toyota</a>
+</li>
+<li>
+<a href="../vlix-cover-challenge2/" target="_blank">V Cover Challenge</a>
+</li>
+<li>
+<a href="../sari-roti/" target="_blank">Sari Roti</a>
+</li>
+<li>
+<a href="../corona/" target="_blank">Pantau Corona VIVA.co.id</a>
+</li>
+<li>
+<a href="../corona/index-vivanews.php" target="_blank">Pantau Corona VIVAnews</a>
+</li>
+<li>
+<a href="../antv20-microsite/" target="_blank">Microsite ANTV</a>
+</li>
+<li>
+<a href="../ayo-hidup-sehat/" target="_blank">Ayo Hidup Sehat</a>
+</li>
+<li>
+<a href="../ayo-hidup-sehat/blocking-banner-halodoc.php" target="_blank">Ayo Hidup Sehat halodoc</a>
+</li>
+<li>
+<a href="../ayo-hidup-sehat/blocking-banner-betadine.php" target="_blank">Ayo Hidup Sehat betadine</a>
+</li>
+<li>
+<a href="../ayo-hidup-sehat/blocking-banner.php" target="_blank">Ayo Hidup Sehat klik dokter</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item vivanews">
+<div class="gc-box">
+<h2>VIVAnews</h2>
+<ul>
+<li>
+<a href="../vivanews19/" target="_blank">Responsive</a>
+</li>
+<li>
+<a href="../vivanews19/smg" target="_blank">Social Media Generator</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item vivacoid">
+<div class="gc-box">
+<h2>VIVA.co.id</h2>
+<ul>
+<li>
+<a href="../viva/desktop/" target="_blank">Desktop</a>
+</li>
+<li>
+<a href="../viva18/mobile/" target="_blank">Mobile</a>
+</li>
+<li>
+<a href="../viva18/amp/" target="_blank">AMP</a>
+</li>
+<li>
+<a href="../sosmedgenerator/smg20/" target="_blank">Social Media Generator</a>
+</li>
+<li>
+<a href="../vivacoid20/" target="_blank">New Concept</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item jagodangdut">
+<div class="gc-box">
+<h2>JagoDangdut</h2>
+<ul>
+<li>
+<a href="../dangdut/desktop2/" target="_blank">Desktop</a>
+</li>
+<li>
+<a href="../dangdut/mobile2/" target="_blank">Mobile</a>
+</li>
+<li>
+<a href="../dangdut/amp-desktop/" target="_blank">AMP Desktop</a>
+</li>
+<li>
+<a href="../dangdut/amp/" target="_blank">AMP Mobile</a>
+</li>
+<li>
+<a href="../dangdut/responsive/" target="_blank">Responsive</a>
+</li>
+<li>
+<a href="../dangdut/smg2/" target="_blank">Social Media Generator</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item kpj">
+<div class="gc-box">
+<h2>100KPJ</h2>
+<ul>
+<li>
+<a href="../motor/desktop/" target="_blank">Desktop</a>
+</li>
+<li>
+<a href="../motor/mobile/" target="_blank">Mobile</a>
+</li>
+<li>
+<a href="../motor/amp/" target="_blank">AMP</a>
+</li>
+<li>
+<a href="../motor/responsive/" target="_blank">Responsive</a>
+</li>
+<li>
+<a href="../motor/smg2/" target="_blank">Social Media Generator</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item vlix">
+<div class="gc-box">
+<h2>VLIX</h2>
+<ul>
+<li>
+<a href="../vlix/desktop/" target="_blank">Desktop</a>
+</li>
+<li>
+<a href="../vlix/mobile/" target="_blank">Mobile</a>
+</li>
+<li>
+<a href="../vlix/amp/" target="_blank">AMP</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item intipseleb">
+<div class="gc-box">
+<h2>IntipSeleb</h2>
+<ul>
+<li>
+<a href="../seleb/" target="_blank">Responsive</a>
+</li>
+<li>
+<a href="../seleb/amp/" target="_blank">AMP</a>
+</li>
+<li>
+<a href="../motor/smg/" target="_blank">Social Media Generator</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item sahijab">
+<div class="gc-box">
+<h2>Sahijab</h2>
+<ul>
+<li>
+<a href="../sahijab/" target="_blank">Responsive</a>
+</li>
+<li>
+<a href="../sahijab/smg/" target="_blank">Social Media Generator</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item mizeru">
+<div class="gc-box">
+<h2>Milzeru</h2>
+<ul>
+<li>
+<a href="../milzeru/" target="_blank">Responsive</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item suaramerdeka">
+<div class="gc-box">
+<h2>Suara Merdeka</h2>
+<ul>
+<li>
+<a href="../suara-merdeka/" target="_blank">Responsive</a>
+</li>
+<li>
+<a href="../suara-merdeka/smg/" target="_blank">Social Media Generator</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item onepride">
+<div class="gc-box">
+<h2>OnePride</h2>
+<ul>
+<li>
+<a href="../onepride20/" target="_blank">Responsive</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item oneprix">
+<div class="gc-box">
+<h2>OnePrix</h2>
+<ul>
+<li>
+<a href="../oneprix-teaser/" target="_blank">Old (2019)</a>
+</li>
+<li>
+<a href="../oneprix/" target="_blank">New</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item tvone">
+<div class="gc-box">
+<h2>tvOne</h2>
+<ul>
+<li>
+<a href="../tvone20/" target="_blank">Responsive</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="masonry-grid-item analytic">
+<div class="gc-box">
+<h2>Analytic</h2>
+<ul>
+<li>
+<a href="../vivanalytic/author/" target="_blank">Author Analytic</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+</section>
+<noscript id="deferred-styles">
+  <link rel="stylesheet" type="text/css" href="css/core.css"/>
+</noscript>
+<script defer type="ef226e0649159422a28e6710-text/javascript">
+  var loadDeferredStyles = function() {
+	var addStylesNode = document.getElementById("deferred-styles");
+	var replacement = document.createElement("div");
+	replacement.innerHTML = addStylesNode.textContent;
+	document.body.appendChild(replacement)
+	addStylesNode.parentElement.removeChild(addStylesNode);
+  };
+  var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+	  window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+  if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+  else window.addEventListener('load', loadDeferredStyles);
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="ef226e0649159422a28e6710-text/javascript"></script>
+<script type="ef226e0649159422a28e6710-text/javascript">
+   window.jQuery || document.write('<script src="js/jquery.js"><\/script>');
+</script>
+<script defer src="js/masonry.pkgd.min.js" type="ef226e0649159422a28e6710-text/javascript"></script>
+<script defer src="js/base.js" type="ef226e0649159422a28e6710-text/javascript"></script>
+<footer>
+VIVANetworks &copy;2019 - All Right Reserved
+</footer><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="ef226e0649159422a28e6710-|49" defer=""></script>
